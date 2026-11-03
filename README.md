@@ -17,8 +17,7 @@ Watch the project in action:
 
 ## Screenshots
 
-Add your project screenshots or GIFs to a `screenshots/` folder and
-update the paths below.
+
 
 ![Project hero preview](screenshots/hero.png)
 
