@@ -134,7 +134,7 @@ Google Fonts referenced by the page.
 
 ## Developer
 
-**Joyjeet Roy** — Frontend Developer
+**Joyjeet Roy** — Full Stack Web Developer
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/joyjeetroy/)
 
