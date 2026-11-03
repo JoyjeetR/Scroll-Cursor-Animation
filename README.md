@@ -1,3 +1,5 @@
+
+
 # Konark Wheel --- Interactive Web Animation
 
 An experimental frontend project inspired by the Konark Sun Temple. The
@@ -13,7 +15,8 @@ storytelling on the web.
 
 Watch the project in action:
 
-[▶ Watch the Konark Wheel Demo](YOUR_GITHUB_VIDEO_URL)
+[▶ Watch the Konark Wheel Demo](https://github.com/user-attachments/assets/81416ec3-37d0-466e-aadb-48fbf75d2f98)
+
 
 ## Screenshots
 
